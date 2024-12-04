@@ -1,0 +1,21 @@
+{
+  "name": "aoc24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --silent --reporter verbose",
+    "loud": "vitest --reporter verbose"
+  },
+  "keywords": [],
+  "author": "pvela",
+  "dependencies": {
+    "@blakeembrey/deque": "^1.0.5",
+    "@types/jest": "^29.2.4",
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^23.3.0",
+    "lodash": "^4.17.21",
+    "typescript": "^4.9.3",
+    "vitest": "^0.25.5"
+  }
+}
